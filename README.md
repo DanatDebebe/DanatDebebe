@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Danat Debebe!  
 
-🎓 **Computer Science Graduate** | ☁️ **Aspiring Cloud Engineer** | 🤖 **ML & Systems Thinker**  
+🎓 **Computer Science Graduate** | 👩‍💻 **Aspiring Data Scientist** | 🤖 **ML & Systems Thinker**  
 
 ## 🚀 About Me  
 
@@ -12,8 +12,7 @@ I'm a **computer science graduate** with a passion for **systems thinking, scala
 
 ## 📌 What You'll Find Here  
 
-✅ **Machine Learning & Data Engineering Projects**  
-✅ **Cloud & DevOps Experiments**  
+✅ **Machine Learning & Data Engineering Projects**    
 ✅ **Small Math & Algorithmic Fun Projects**  
 
 ## 📫 Let's Connect!  
