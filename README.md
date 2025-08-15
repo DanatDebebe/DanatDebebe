@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Graduate** | 👩‍💻 **Aspiring Data Scientist** | 🤖 **ML & Systems Thinker**  
 
-## 🚀 About Me  
+## About Me  
 
 I'm a **computer science graduate** with a passion for **systems thinking, scalable solutions, and interdisciplinary tech applications**. I love solving complex problems—whether it's optimizing cloud infrastructure, building machine learning models, or automating workflows.  
 
@@ -19,7 +19,6 @@ I'm a **computer science graduate** with a passion for **systems thinking, scala
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danat-ashebir-584552263/)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danatdebebe@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanatDebebe)  
 
-Always open to cool discussions, collaborations, and learning opportunities! 🚀  
+Always open for discussions, collaborations, and learning opportunities! 
 
